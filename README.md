@@ -9,3 +9,9 @@ code url:  https://github.com/Manishmatti/html-css-javascript-for-web-developers
 
 Hosted url: https://manishmatti.github.io/html-css-javascript-for-web-developers/mod2_solutions/
 
+Module #3 Coding Assignment Solution
+
+code url:  https://github.com/Manishmatti/html-css-javascript-for-web-developers/tree/main/mod3_solutions
+
+Hosted url: https://manishmatti.github.io/html-css-javascript-for-web-developers/mod3_solutions/
+
