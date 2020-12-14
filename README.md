@@ -20,3 +20,9 @@ Module #4 Coding Assignment Solution
 code url:  https://github.com/Manishmatti/html-css-javascript-for-web-developers/tree/main/mod4_solutions
 
 Hosted url: https://manishmatti.github.io/html-css-javascript-for-web-developers/mod4_solutions/
+
+Module #5 Coding Assignment Solution
+
+code url:  https://github.com/Manishmatti/html-css-javascript-for-web-developers/tree/main/mod5_solutions
+
+Hosted url: https://manishmatti.github.io/html-css-javascript-for-web-developers/mod5_solutions/
